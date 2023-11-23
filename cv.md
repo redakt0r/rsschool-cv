@@ -1,6 +1,7 @@
 # Koryakin Mikhail
 ![avatar](avatar.jpg "Аватар")
-Frontend Developer
+
+**Frontend Developer**
 ====
 
 ## Contact Information:
