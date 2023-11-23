@@ -1,5 +1,5 @@
 # Koryakin Mikhail
-
+![avatar](avatar.jpg "Аватар")
 Frontend Developer
 ====
 
