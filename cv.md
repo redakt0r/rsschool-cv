@@ -13,15 +13,15 @@ Frontend Developer
 
 ## About me
 -----
-I was born in Moscow in '70, in an industrial district.
-My first encounters with computers were around 2012.
+I was born in Tula region in '90, in an outskirts of small mining town.
+My first encounters with computers were around 2003.
 At 4, I actively delved into coding in children's circles.
 Girls first shared their projects with me.
 
 School, the scent of glue, and development in algorithms.
 Stole time, studying on various courses.
 At 8, started learning new technologies; at 11, created my first project.
-Forgot about traditional methods, diving into hackathons and GitHub.
+Forgot about traditional methods, diving into hackathons and frameworks.
 
 Bought a new laptop, moved to a successful startup.
 Thanks to the office mentor for support.
@@ -31,3 +31,5 @@ Innovations, brains, new projects.
 Vacation on Taganka, new tasks and technologies.
 Solving complex problems, like climbing code mountains.
 Married to my idea, developing the product in a comfortable office.
+
+And here I am in RSSchool, trying to fight with my self. 
