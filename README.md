@@ -1,3 +1,3 @@
 # rsschool-cv
 
-CV#1. Markdown & Git
+https://redakt0r.github.io/rsschool-cv/cv
