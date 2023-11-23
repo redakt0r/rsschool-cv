@@ -1,5 +1,4 @@
 # Koryakin Mikhail
-------
 
 Frontend Developer
 ====
@@ -9,10 +8,8 @@ Frontend Developer
 - **E-mail** sdrr87@gmail.com
 - **Telegram** @Mikhail_Koryakin
 
-====
 
 ## About me
------
 I was born in Tula region in '90, in an outskirts of small mining town.
 My first encounters with computers were around 2003.
 At 4, I actively delved into coding in children's circles.
@@ -34,7 +31,6 @@ Married to my idea, developing the product in a comfortable office.
 
 And here I am in RSSchool, trying to fight with my self. 
 
-=====
 
 ## Skills
 
@@ -44,7 +40,6 @@ And here I am in RSSchool, trying to fight with my self.
 * Git
 * VS Code, Figma
 
-=====
 
 ## Code example:
 **Pete, the baker** 5kyu KATA from [CODEWARS](https://www.codewars.com/kata/525c65e51bf619685c000059):
@@ -59,7 +54,6 @@ function cakes(recipe, available) {
 }
 ```
 
-===
 
 ## Languages:
 * English - B2;
